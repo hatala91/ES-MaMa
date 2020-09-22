@@ -1,2 +1,11 @@
-# ES-MaMa
-ElasticSearch Mapping Manager
+     _______     _______.       .___  ___.      ___      .___  ___.      ___      
+    |   ____|   /       |       |   \/   |     /   \     |   \/   |     /   \     
+    |  |__     |   (----` ______|  \  /  |    /  ^  \    |  \  /  |    /  ^  \    
+    |   __|     \   \    |______|  |\/|  |   /  /_\  \   |  |\/|  |   /  /_\  \   
+    |  |____.----)   |          |  |  |  |  /  _____  \  |  |  |  |  /  _____  \  
+    |_______|_______/           |__|  |__| /__/     \__\ |__|  |__| /__/     \__\ 
+                                                                              
+
+# ElasticSearch Mapping Manager
+
+Manage you Index Mappings for professional ElasticSearch control.
